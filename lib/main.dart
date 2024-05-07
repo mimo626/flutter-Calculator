@@ -56,7 +56,7 @@ class _MyAppState extends State<MyApp> {
           // 배경색
             backgroundColor: Theme.of(context).colorScheme.inversePrimary,
             // 상단 바의 타이틀을 문자열 요소로 지정한다.
-            title : Text("멋쟁이 사자")
+            title : Text("계산기")
         ),
         // 화면 본문 부분
         // Center : 배치될 UI 요소들을 중앙에 정렬하는 컨테이너
